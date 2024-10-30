@@ -36,3 +36,6 @@ const AssetDispCard = ({props}) => {
 }
 
 export default AssetDispCard
+
+
+// Asset DispCard
