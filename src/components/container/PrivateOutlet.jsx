@@ -7,3 +7,4 @@ export default function PrivateOutlet() {
 
   return access_token ? <Outlet/> : <Navigate to="/user/login" />;
 }
+// Payment Outlet
