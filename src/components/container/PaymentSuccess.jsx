@@ -1,4 +1,4 @@
-
+// Payment success
 const PaymentSuccess = () => {
   return (
     <div className="w-full relative flex flex-col items-center justify-center">
