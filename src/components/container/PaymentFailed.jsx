@@ -1,4 +1,4 @@
-
+// payment failed
 const PaymentFailed = () => {
   return (
     <div className="w-full relative flex flex-col items-center justify-center">
