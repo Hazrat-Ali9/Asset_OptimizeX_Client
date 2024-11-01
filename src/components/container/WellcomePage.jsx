@@ -71,5 +71,5 @@ const WelcomePage = () => {
     </div>
   )
 }
-
+// Welcome page
 export default WelcomePage
