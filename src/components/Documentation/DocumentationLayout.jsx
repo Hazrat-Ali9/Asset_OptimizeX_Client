@@ -2,7 +2,7 @@ import Authentication from "./Authentication";
 import DocumentNav from "./DocumentNav";
 import OrgFeatures from "./OrgFeatures";
 import OrganizationDoc from "./OrganizationDoc";
-
+// Documentation Layout 
 const DocumentationLayout = () => {
   return (
     <div className='bg-slate-900 text-slate-500 w-full overflow-hidden text-white-100'>
