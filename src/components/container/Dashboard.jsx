@@ -6,7 +6,7 @@ import { BsFillPeopleFill } from 'react-icons/bs';
 import { MdConfirmationNumber, MdOutlineRateReview } from 'react-icons/md';
 import { PiArrowBendLeftDownBold } from 'react-icons/pi';
 import { Link, Outlet } from "react-router-dom";
-import OrganizationBtn from './Organizationbtn';
+import OrganizationBtn from '/Organizationbtn';
 
 const Dashboard = () => {
   const [ownerOrganizations, setOwnerOrganizations] = useState([]);
