@@ -2,7 +2,7 @@ import axios from "axios";
 import { useState } from "react";
 import { useParams } from "react-router-dom";
 
-
+// add member to org
 const AddMemberToOrg = () => {
     const [serverError, setServerError] = useState({});
     const [serverMsg, setServerMsg] = useState('');
