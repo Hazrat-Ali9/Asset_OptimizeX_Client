@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
-
+// Profile Details 
 const ProfileDetail = () => {
     const [userData, setUserData] = useState({});
     const [serverError, setServerError] = useState({})
