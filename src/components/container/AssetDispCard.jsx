@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-
+// asset discard
 const AssetDispCard = ({props}) => {
     console.log(props)
     const {id, asset, title} = props;
